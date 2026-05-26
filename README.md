@@ -53,7 +53,7 @@ void* thread_work(void* arg) {
 
 ## Result (run_bench.sh):
 
-![Unoptimized Result](ping_pong_no_opt_photo.png)
+![Unoptimized Result](ping_pong_no_opt_photo.png?v=2)
 
 ## CPU Optimization:
 
